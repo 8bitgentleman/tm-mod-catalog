@@ -4248,7 +4248,7 @@
       "id": "couch-coop",
       "name": "Couch Co-op",
       "kind": "plugin",
-      "status": "stable",
+      "status": "beta",
       "author": "8bitgentleman",
       "version": "0.3.0",
       "description": "Local split-screen multiplayer.",
@@ -9958,7 +9958,7 @@
       "id": "tricky-circuit",
       "name": "Tricky Circuit",
       "kind": "plugin",
-      "status": "stable",
+      "status": "beta",
       "author": "8bitgentleman",
       "version": "1.6.2",
       "description": "Tricky-style circuit mode: ranked runs across a set of courses.",
@@ -10006,7 +10006,7 @@
       "id": "tricky-shockwave",
       "name": "Tricky Shockwave",
       "kind": "plugin",
-      "status": "stable",
+      "status": "beta",
       "author": "8bitgentleman",
       "version": "0.2.0",
       "description": "A shockwave and camera punch when you land an uber trick.",
@@ -10039,7 +10039,7 @@
       "id": "menu-atmosphere",
       "name": "Menu Atmosphere",
       "kind": "plugin",
-      "status": "stable",
+      "status": "beta",
       "author": "8bitgentleman",
       "version": "1.0.0",
       "description": "Snow, wind and a frozen room behind the main menu.",
@@ -10074,5 +10074,5 @@
       }
     }
   ],
-  "updated": "2026-10-30T20:31:12+00:00"
+  "updated": "2026-10-30T20:50:30+00:00"
 }
