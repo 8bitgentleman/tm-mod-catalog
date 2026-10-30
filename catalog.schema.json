@@ -85,6 +85,11 @@
         "description": { "type": "string" },
         "thumb": { "type": ["string", "null"], "pattern": "^thumbs/[a-z0-9-]+\\.(png|jpg)$" },
         "video": { "type": ["string", "null"], "pattern": "^https://" },
+        "config": {
+          "description": "BepInEx/config/ file names this entry's plugins write on first run (named by plugin GUID, so not derivable from the DLL); the manager's settings screen edits these",
+          "type": "array",
+          "items": { "type": "string", "pattern": "^[^/\\\\]+\\.cfg$" }
+        },
         "requires": {
           "type": "object",
           "propertyNames": { "$ref": "#/$defs/id" },

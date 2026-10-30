@@ -3848,6 +3848,9 @@
       "description": "Loads custom maps. Every map pack needs it.",
       "thumb": null,
       "video": null,
+      "config": [
+        "TrickyMaddnessLevelHook.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -3883,6 +3886,9 @@
       "description": "Adds playable riders ported from the SSX games.",
       "thumb": "thumbs/character-hook.png",
       "video": null,
+      "config": [
+        "CharacterHook.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -4248,6 +4254,9 @@
       "description": "Local split-screen multiplayer.",
       "thumb": null,
       "video": null,
+      "config": [
+        "com.mtvogel.trickymadness.couchcoop.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -4278,6 +4287,9 @@
       "description": "Plays the SSX games' soundtracks in Tricky Madness. Large download.",
       "thumb": "thumbs/radio-big.png",
       "video": null,
+      "config": [
+        "com.mtv.radiobig.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -9952,6 +9964,9 @@
       "description": "Tricky-style circuit mode: ranked runs across a set of courses.",
       "thumb": "thumbs/tricky-circuit.png",
       "video": null,
+      "config": [
+        "TrickyCircuit.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -9997,6 +10012,9 @@
       "description": "A shockwave and camera punch when you land an uber trick.",
       "thumb": null,
       "video": null,
+      "config": [
+        "TrickyShockwave.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
@@ -10027,6 +10045,9 @@
       "description": "Snow, wind and a frozen room behind the main menu.",
       "thumb": null,
       "video": null,
+      "config": [
+        "MenuAtmosphere.cfg"
+      ],
       "requires": {},
       "tested_tm_build": null,
       "builds": {
