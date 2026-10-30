@@ -7700,7 +7700,7 @@
               "sha256": "dc1b70fe027b50ff1d6e1e4542cd5e317e76954bcfa33761d88d6566574a5138",
               "size": 5120971
             },
-            "BepInEx/plugins/RadioBig/assets/ssx2012/36 - ΓÇ£ItΓÇÖs TrickyΓÇ¥ (SSX Pretty Lights Remix) (Run-DMC).mp3": {
+            "BepInEx/plugins/RadioBig/assets/ssx2012/36 - “It’s Tricky” (SSX Pretty Lights Remix) (Run-DMC).mp3": {
               "member": "Radio Big v1.5.1 - Tricky Madness Mod/RadioBig/assets/ssx2012/36 - ΓÇ£ItΓÇÖs TrickyΓÇ¥ (SSX Pretty Lights Remix) (Run-DMC).mp3",
               "sha256": "46204bf880db60649ffdfb47191b6f7de266dcc0fefbf54fded58f49507aa896",
               "size": 6623779
@@ -7810,7 +7810,7 @@
               "sha256": "125ad4aed60ed38ecdf984a3f833579e2d003706700a433c8895301f4a8f4cc3",
               "size": 14851341
             },
-            "BepInEx/plugins/RadioBig/assets/ssx3/22 - Ma╠üs (Kinky) - SSX 3 [Soundtrack].mp3": {
+            "BepInEx/plugins/RadioBig/assets/ssx3/22 - Más (Kinky) - SSX 3 [Soundtrack].mp3": {
               "member": "Radio Big v1.5.1 - Tricky Madness Mod/RadioBig/assets/ssx3/22 - Ma╠üs (Kinky) - SSX 3 [Soundtrack].mp3",
               "sha256": "1f48854d43ef8f8829e6da708ded3fcf65b1e6e01e077d0465058be76767a8ea",
               "size": 11956941
@@ -10074,5 +10074,5 @@
       }
     }
   ],
-  "updated": "2026-10-30T20:15:31+00:00"
+  "updated": "2026-10-30T20:31:12+00:00"
 }
