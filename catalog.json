@@ -12,7 +12,7 @@
     },
     "couch-coop": {
       "mega_path": "/Tricky Madness Mods/MOD - Couch CoOp",
-      "link": null
+      "link": "https://mega.nz/folder/jI4CxLJY#zxLp_UTCLATfn0QfcGi73w"
     },
     "radio-big": {
       "mega_path": "/Tricky Madness Mods/MOD - Radio Big",
@@ -20,15 +20,15 @@
     },
     "tricky-circuit": {
       "mega_path": "/Tricky Madness Mods/MOD - Tricky Circuit",
-      "link": null
+      "link": "https://mega.nz/folder/iY53QBYb#WZPzDY8s3sGlWCyPwt2btw"
     },
     "tricky-shockwave": {
       "mega_path": "/Tricky Madness Mods/MOD - Tricky Shockwave",
-      "link": null
+      "link": "https://mega.nz/folder/HN5BXYaB#XLtJQvm9mjakdNUoWa6AHw"
     },
     "menu-atmosphere": {
       "mega_path": "/Tricky Madness Mods/MOD - Menu Atmosphere",
-      "link": null
+      "link": "https://mega.nz/folder/LIwS0Z5K#kS2xtE8g1tsQ7mj8N7Nwww"
     }
   },
   "entries": [
@@ -36,6 +36,7 @@
       "id": "tricky-ports",
       "name": "SSX Tricky Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.5",
       "description": "SSX Tricky's courses, converted from the PS2 game.",
@@ -430,6 +431,7 @@
       "id": "ssx3-ports",
       "name": "SSX 3 Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "2.0",
       "description": "SSX 3's mountain, converted course by course from the PS2 game.",
@@ -1184,6 +1186,7 @@
       "id": "ssx2012-ports",
       "name": "SSX 2012 Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.3",
       "description": "The race courses of SSX (2012), converted from the PS3 game. Large download.",
@@ -2658,6 +2661,7 @@
       "id": "blur-ports",
       "name": "SSX Blur Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.2",
       "description": "SSX Blur's courses, converted from the Wii game.",
@@ -3012,6 +3016,7 @@
       "id": "ontour-ports",
       "name": "SSX On Tour Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.2",
       "description": "SSX On Tour's courses, converted from the PS2 game.",
@@ -3476,6 +3481,7 @@
       "id": "rawthrills-ports",
       "name": "Raw Thrills Ports",
       "kind": "maps",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.1",
       "description": "Courses from Raw Thrills' arcade snowboard and ski games.",
@@ -3750,9 +3756,10 @@
       "id": "wildtangent-ports",
       "name": "WildTangent Ports",
       "kind": "maps",
+      "status": "alpha",
       "author": "8bitgentleman",
       "version": "1.0",
-      "description": "Courses from WildTangent's early-2000s PC snowboard games. Alpha.",
+      "description": "Courses from WildTangent's early-2000s PC snowboard games.",
       "thumb": null,
       "video": null,
       "requires": {
@@ -3835,6 +3842,7 @@
       "id": "level-hook",
       "name": "Level Hook",
       "kind": "framework",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "2.19.0",
       "description": "Loads custom maps. Every map pack needs it.",
@@ -3869,6 +3877,7 @@
       "id": "character-hook",
       "name": "CharacterHook",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.7.0",
       "description": "Adds playable riders ported from the SSX games.",
@@ -4233,6 +4242,7 @@
       "id": "couch-coop",
       "name": "Couch Co-op",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "0.3.0",
       "description": "Local split-screen multiplayer.",
@@ -4262,6 +4272,7 @@
       "id": "radio-big",
       "name": "Radio Big",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.5.1",
       "description": "Plays the SSX games' soundtracks in Tricky Madness. Large download.",
@@ -9935,6 +9946,7 @@
       "id": "tricky-circuit",
       "name": "Tricky Circuit",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.6.2",
       "description": "Tricky-style circuit mode: ranked runs across a set of courses.",
@@ -9979,6 +9991,7 @@
       "id": "tricky-shockwave",
       "name": "Tricky Shockwave",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "0.2.0",
       "description": "A shockwave and camera punch when you land an uber trick.",
@@ -10008,6 +10021,7 @@
       "id": "menu-atmosphere",
       "name": "Menu Atmosphere",
       "kind": "plugin",
+      "status": "stable",
       "author": "8bitgentleman",
       "version": "1.0.0",
       "description": "Snow, wind and a frozen room behind the main menu.",
@@ -10039,5 +10053,5 @@
       }
     }
   ],
-  "updated": "2026-10-30T18:46:34+00:00"
+  "updated": "2026-10-30T18:52:00+00:00"
 }

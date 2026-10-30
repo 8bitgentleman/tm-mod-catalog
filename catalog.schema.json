@@ -70,12 +70,16 @@
     },
     "entry": {
       "type": "object",
-      "required": ["id", "name", "kind", "author", "version", "description", "thumb", "video", "requires", "tested_tm_build", "builds"],
+      "required": ["id", "name", "kind", "status", "author", "version", "description", "thumb", "video", "requires", "tested_tm_build", "builds"],
       "additionalProperties": false,
       "properties": {
         "id": { "$ref": "#/$defs/id" },
         "name": { "type": "string", "minLength": 1 },
         "kind": { "enum": ["maps", "plugin", "framework"] },
+        "status": {
+          "description": "stable = listed normally; beta/alpha = listed with that badge; unreleased = hidden unless the player turns on 'show unreleased'",
+          "enum": ["stable", "beta", "alpha", "unreleased"]
+        },
         "author": { "type": "string", "minLength": 1 },
         "version": { "$ref": "#/$defs/semver" },
         "description": { "type": "string" },
