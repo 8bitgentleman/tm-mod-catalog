@@ -45,7 +45,7 @@
       "requires": {
         "level-hook": ">=2.19.0"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -440,7 +440,7 @@
       "requires": {
         "level-hook": ">=2.18.1"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -1195,7 +1195,7 @@
       "requires": {
         "level-hook": ">=2.7.0"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -2670,7 +2670,7 @@
       "requires": {
         "level-hook": ">=2.5.0"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -3025,7 +3025,7 @@
       "requires": {
         "level-hook": ">=2.16.0"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -3490,7 +3490,7 @@
       "requires": {
         "level-hook": ">=2.8.2"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "mac": {
           "source": "custom-maps",
@@ -3765,7 +3765,7 @@
       "requires": {
         "level-hook": ">=2.5.3"
       },
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "windows": {
           "source": "custom-maps",
@@ -3852,7 +3852,7 @@
         "TrickyMaddnessLevelHook.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "custom-maps",
@@ -3890,7 +3890,7 @@
         "CharacterHook.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "character-hook",
@@ -4258,7 +4258,7 @@
         "com.mtvogel.trickymadness.couchcoop.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "couch-coop",
@@ -4291,7 +4291,7 @@
         "com.mtv.radiobig.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "radio-big",
@@ -9968,7 +9968,7 @@
         "TrickyCircuit.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "tricky-circuit",
@@ -10016,7 +10016,7 @@
         "TrickyShockwave.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "tricky-shockwave",
@@ -10049,7 +10049,7 @@
         "MenuAtmosphere.cfg"
       ],
       "requires": {},
-      "tested_tm_build": null,
+      "tested_tm_build": "26061059",
       "builds": {
         "any": {
           "source": "menu-atmosphere",
@@ -10074,5 +10074,5 @@
       }
     }
   ],
-  "updated": "2026-10-30T18:52:00+00:00"
+  "updated": "2026-10-30T20:15:31+00:00"
 }
