@@ -4252,7 +4252,7 @@
       "author": "8bitgentleman",
       "version": "0.3.0",
       "description": "Local split-screen multiplayer.",
-      "thumb": null,
+      "thumb": "thumbs/couch-coop.png",
       "video": null,
       "config": [
         "com.mtvogel.trickymadness.couchcoop.cfg"
@@ -9961,7 +9961,7 @@
       "status": "beta",
       "author": "8bitgentleman",
       "version": "1.6.2",
-      "description": "Tricky-style circuit mode: ranked runs across a set of courses.",
+      "description": "Auto-builds circuits that mix courses from every game you have installed, with points carried across races. Pick which games, how they're mixed, and an optional mirror mode on the in-game settings page.",
       "thumb": "thumbs/tricky-circuit.png",
       "video": null,
       "config": [
@@ -10043,7 +10043,7 @@
       "author": "8bitgentleman",
       "version": "1.0.0",
       "description": "Snow, wind and a frozen room behind the main menu.",
-      "thumb": null,
+      "thumb": "thumbs/menu-atmosphere.png",
       "video": null,
       "config": [
         "MenuAtmosphere.cfg"
