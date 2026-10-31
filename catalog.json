@@ -3882,7 +3882,7 @@
       "kind": "plugin",
       "status": "stable",
       "author": "8bitgentleman",
-      "version": "1.7.0",
+      "version": "1.7.1",
       "description": "Adds playable riders ported from the SSX games.",
       "thumb": "thumbs/character-hook.png",
       "video": null,
@@ -3895,348 +3895,348 @@
         "any": {
           "source": "character-hook",
           "path": "",
-          "file": "CharacterHook v1.7.0 - Tricky Madness Mod.zip",
-          "size": 22127237,
-          "sha256": "a4adc620b5ae42300880e3858ebd9bd9c295d888e6b41355f8b89fda975e4aef",
+          "file": "CharacterHook v1.7.1 - Tricky Madness Mod.zip",
+          "size": 22127379,
+          "sha256": "e9b4152407e04b1214d6a19bb5565343b9b914b67ef3859b893c141fccc52086",
           "files": {
             "BepInEx/config/CharacterHook.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/config/CharacterHook.cfg",
-              "sha256": "376ba7b15afc97347ef9e9ee2f71d62e6c57ae0325311a69f5baea13f2e6ee1b",
-              "size": 7933
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/config/CharacterHook.cfg",
+              "sha256": "e861363149ce0c9c0dfeac11f33941e1a3f00eee69a262a73594dd9e75d9ed1e",
+              "size": 7943
             },
             "BepInEx/plugins/CharacterHook.dll": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/CharacterHook.dll",
-              "sha256": "59b4c9229ed6d817bc1d02fad557077d9a51b6f6d3194201ad5280392d4fe6fe",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/CharacterHook.dll",
+              "sha256": "775293f0b6501581e24e200de0ce912cf1297c13bb1fe23072e038ea725f1688",
               "size": 97792,
               "exec": true
             },
             "BepInEx/plugins/characters/dlceddie/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/character.cfg",
               "sha256": "34bacb7865eca22bf3021e170094be67f92bd1c6b8b0e4dec2bae2c2d773907e",
               "size": 7579
             },
             "BepInEx/plugins/characters/dlceddie/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/model.bundle",
               "sha256": "7f61b98feac852008a3a6e6683dc36f6577b6b03e7a44575ccf37675d89fe44a",
               "size": 2204874
             },
             "BepInEx/plugins/characters/dlceddie/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlceddie/portrait.png",
               "sha256": "4312cdd50445fe905a2550ab30b081a627ba2ddcaa4d546aea4f10611af04718",
               "size": 76775
             },
             "BepInEx/plugins/characters/dlcelise/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/character.cfg",
               "sha256": "34d78a6eb61356549b4c5aada95aa1af86f499ce14aa781f313a33703d2ab207",
               "size": 7579
             },
             "BepInEx/plugins/characters/dlcelise/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/model.bundle",
               "sha256": "e869cc464c61857fe180c3fde035cffc1605010c4bbb30add74e29e61163155e",
               "size": 1512759
             },
             "BepInEx/plugins/characters/dlcelise/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcelise/portrait.png",
               "sha256": "f51ad7fce8d106e760aa39a1b463fd0ef950c57167e3c99b1b13dad301229449",
               "size": 67052
             },
             "BepInEx/plugins/characters/dlckaori/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/character.cfg",
               "sha256": "ed802f2ecba1513ad08d59b366c8ff7b659645e5b0cf9a7e92260e3cbf40b27a",
               "size": 7579
             },
             "BepInEx/plugins/characters/dlckaori/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/model.bundle",
               "sha256": "a32d1cbcdf938695eeb5fa15c11b23da3af2178733f09e70b1157902ba028513",
               "size": 1603271
             },
             "BepInEx/plugins/characters/dlckaori/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlckaori/portrait.png",
               "sha256": "d654d590e148dc496e702a93bf0e326aeb620f91a5a7ed3cc5a0e2f6d8eae87d",
               "size": 71505
             },
             "BepInEx/plugins/characters/dlcmac/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/character.cfg",
               "sha256": "18779d693d1fe83425a7aff404c7fa14c042007cd46ec297f20a62c0c969b569",
               "size": 7565
             },
             "BepInEx/plugins/characters/dlcmac/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/model.bundle",
               "sha256": "81b481f0ac409e479db880cb3d164c7c8ef29412f90d5476779138e7637b20c5",
               "size": 1563482
             },
             "BepInEx/plugins/characters/dlcmac/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmac/portrait.png",
               "sha256": "f7c32bfcc985ad91f58b877022f6cab8db1a1a3f4d31f890e064b6ffb87cafce",
               "size": 63181
             },
             "BepInEx/plugins/characters/dlcmoby/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/character.cfg",
               "sha256": "6f8064cc427439ab9dfee97e11b82eb3029be4be93803664bf9cbfa4ec43efdf",
               "size": 7574
             },
             "BepInEx/plugins/characters/dlcmoby/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/model.bundle",
               "sha256": "e620e4ce7b021b9c86d5d9d46f7466d6a81b37afeb30663cebf5820db300c1ec",
               "size": 1559839
             },
             "BepInEx/plugins/characters/dlcmoby/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcmoby/portrait.png",
               "sha256": "ece09570fd1f9f468610a1fe50b12cda9f12f152d27dfecf0738590b57c2921a",
               "size": 60148
             },
             "BepInEx/plugins/characters/dlcpsymon/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/character.cfg",
               "sha256": "34d47f932c3619661db866b13ba66ff629ea02d283c484bfbd065e36351a87ca",
               "size": 7587
             },
             "BepInEx/plugins/characters/dlcpsymon/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/model.bundle",
               "sha256": "58bb763e7066ad6a38c848c23bcdb25c670ae719868c1d4aa4e113d5178fb6c5",
               "size": 2226830
             },
             "BepInEx/plugins/characters/dlcpsymon/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlcpsymon/portrait.png",
               "sha256": "ac9f3120e2f9eba68dfabfb92956327ee1f0dbe108e15f4c7933fa87d6ba9d52",
               "size": 73808
             },
             "BepInEx/plugins/characters/dlczoe/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/character.cfg",
               "sha256": "72a9c349476000be1e045982bd450068c778d0cae9a7da5dc8956bdfe4d06dd3",
               "size": 7565
             },
             "BepInEx/plugins/characters/dlczoe/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/model.bundle",
               "sha256": "77269ffb8037cd2469d15605dd1bbd910d621922aafdea390aa69608765eedfe",
               "size": 1704395
             },
             "BepInEx/plugins/characters/dlczoe/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/dlczoe/portrait.png",
               "sha256": "22bb5d5dca31649f5144311c3bdad83d3487a25880953bec2f42ab16ed211ef5",
               "size": 77830
             },
             "BepInEx/plugins/characters/scanoliver/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/character.cfg",
               "sha256": "c072240306f5f4e58c6c9e4a4a36608929d18f0c493de7fe2851eecf9646be0d",
               "size": 7587
             },
             "BepInEx/plugins/characters/scanoliver/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/model.bundle",
               "sha256": "61f245411921e93505aac75bbdce39c730454a8d9db0041d7a41425fb19218fd",
               "size": 5760757
             },
             "BepInEx/plugins/characters/scanoliver/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/scanoliver/portrait.png",
               "sha256": "6a45d5782939a6ef81e9ad2d0bef5201af721d37046874eaea95bec6204b8d21",
               "size": 63929
             },
             "BepInEx/plugins/characters/ssx3mac/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/character.cfg",
               "sha256": "7148c2b3e775990a7e70925331f73d4ac461b86a179d187ee301305d2c6867a1",
               "size": 7559
             },
             "BepInEx/plugins/characters/ssx3mac/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/model.bundle",
               "sha256": "72e09dacd213170e312245c3263ea83655e3c3f083dfd1c404663cba88a0a5a6",
               "size": 163334
             },
             "BepInEx/plugins/characters/ssx3mac/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssx3mac/portrait.png",
               "sha256": "779547cba8eea7b02d27eea8e3e3f72f06666e13280486cfd11b9fbef12e10b4",
               "size": 59243
             },
             "BepInEx/plugins/characters/ssxtrickybrodi/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/character.cfg",
               "sha256": "4f265db38b0b447bcc02a4c9fef6765c629ad3ba6792cf305479c7b320913097",
               "size": 7619
             },
             "BepInEx/plugins/characters/ssxtrickybrodi/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/model.bundle",
               "sha256": "aefdaf4cde566575a8b5eee83b09e0edafb6c192453b5579828ba02dcfefdb22",
               "size": 169162
             },
             "BepInEx/plugins/characters/ssxtrickybrodi/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickybrodi/portrait.png",
               "sha256": "c89efdb4771f7e115b7c0079a962e57941946ea883514b685e77692b87682713",
               "size": 61606
             },
             "BepInEx/plugins/characters/ssxtrickyeddie/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/character.cfg",
               "sha256": "cb4767bb74c211a39f6f0bb87deaa64e7fac94581cdacfc1dd71c5aa354e9ffb",
               "size": 7618
             },
             "BepInEx/plugins/characters/ssxtrickyeddie/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/model.bundle",
               "sha256": "6d9eef2168b86ce1186de2fed54fdd534a2b6d09649e2f9c60df132760ab0d16",
               "size": 183514
             },
             "BepInEx/plugins/characters/ssxtrickyeddie/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyeddie/portrait.png",
               "sha256": "0835ca2bcc4947f72659e742ac85836023e2851563588bb801ff3b971149cb91",
               "size": 61783
             },
             "BepInEx/plugins/characters/ssxtrickyelise/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/character.cfg",
               "sha256": "b7c10d642761131e5560fed8762c37c140a2090a4571e7a6ba00149ec25a9e38",
               "size": 7619
             },
             "BepInEx/plugins/characters/ssxtrickyelise/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/model.bundle",
               "sha256": "26717bdf4f333f136cdb8199ea37f1a39e28796a6c0ddd753c02c65ed9890667",
               "size": 178280
             },
             "BepInEx/plugins/characters/ssxtrickyelise/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyelise/portrait.png",
               "sha256": "ed578961dee1c64f610d60dc20de079101bea501c7b44617169add8a65efa976",
               "size": 59435
             },
             "BepInEx/plugins/characters/ssxtrickyjp/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/character.cfg",
               "sha256": "deaec1da1fd968a1f67a21ea1354f3b316153ce785845da4b49b6e181c38b4f7",
               "size": 7595
             },
             "BepInEx/plugins/characters/ssxtrickyjp/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/model.bundle",
               "sha256": "cea74841bf7097373a5cd99b67c66c09325889b7e7d438ea41397716826a51f3",
               "size": 164331
             },
             "BepInEx/plugins/characters/ssxtrickyjp/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyjp/portrait.png",
               "sha256": "078013217082cdc8d93e40e0d385d905821b2c0afb769f42ecdd42e97c76e71d",
               "size": 55516
             },
             "BepInEx/plugins/characters/ssxtrickykaori/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/character.cfg",
               "sha256": "6639430c5c1048ebdcb419b6156ba24bb39a8868c2037693d4a55f23d76e02e2",
               "size": 7619
             },
             "BepInEx/plugins/characters/ssxtrickykaori/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/model.bundle",
               "sha256": "a55a52104cb199c36e42e89be211a7f1ccb4c8581867b95d34ea5a2e9424d2c0",
               "size": 164408
             },
             "BepInEx/plugins/characters/ssxtrickykaori/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickykaori/portrait.png",
               "sha256": "83b73f6e18ef68f9d2e614a6ed42710304036ddcb1cecd35d99e52de77710408",
               "size": 58961
             },
             "BepInEx/plugins/characters/ssxtrickyluther/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/character.cfg",
               "sha256": "1bf85daf654849f7c96faa90ca9fa23704c7aef031e4b85821b56abe8542886f",
               "size": 7627
             },
             "BepInEx/plugins/characters/ssxtrickyluther/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/model.bundle",
               "sha256": "15dc5815a6fbf4fb269bded43d8ea9b456f2274365d142313ec0bfd93ebefe77",
               "size": 182526
             },
             "BepInEx/plugins/characters/ssxtrickyluther/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyluther/portrait.png",
               "sha256": "14a3d52e1485b91a3d5f72e00be5b2b1077ee119a02499c2ca095f30ab0e49e8",
               "size": 59626
             },
             "BepInEx/plugins/characters/ssxtrickymac/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/character.cfg",
               "sha256": "54e00072b98d3a7d7c69210ed8cb1fbdcfadd0554d464e89ea8eb6fa47d829d2",
               "size": 7603
             },
             "BepInEx/plugins/characters/ssxtrickymac/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/model.bundle",
               "sha256": "b8bcd192996ebdfc50e6b900b7372192c2b2fbb7a9fcd53f75dbbb96f2194e6f",
               "size": 176518
             },
             "BepInEx/plugins/characters/ssxtrickymac/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymac/portrait.png",
               "sha256": "213f0326f3171573274792fb73a06e81a11e93c2815cb9623a8faf2d9f175d42",
               "size": 49327
             },
             "BepInEx/plugins/characters/ssxtrickymarisol/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/character.cfg",
               "sha256": "ff17dd63c2f40676ae4d8cf15fc6d2db99cb4d61e9f91a08f2576e9e8998c7d3",
               "size": 7635
             },
             "BepInEx/plugins/characters/ssxtrickymarisol/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/model.bundle",
               "sha256": "6654dc0f75766b2aab99a3b084eed9a2fa23e0098a7c8cd08567658e7d124bbf",
               "size": 176069
             },
             "BepInEx/plugins/characters/ssxtrickymarisol/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymarisol/portrait.png",
               "sha256": "aebb57d8268624d56e2d538170c3a47fbdd59ca047b25d07cd2e47f30ccacb07",
               "size": 60540
             },
             "BepInEx/plugins/characters/ssxtrickymoby/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/character.cfg",
               "sha256": "ffdcf5eabef406e4f0b417e8f45fa7b842083592b6388c43e744cd9a1f421ed9",
               "size": 7611
             },
             "BepInEx/plugins/characters/ssxtrickymoby/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/model.bundle",
               "sha256": "998760b7251454b9c5825bf20265a9bd7d2844c4ee922b4e23afbc1e5694d434",
               "size": 180047
             },
             "BepInEx/plugins/characters/ssxtrickymoby/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickymoby/portrait.png",
               "sha256": "9e3ff1c79083e33f851de5272acce19264fef69ae06b9575123b2faa897d527e",
               "size": 54053
             },
             "BepInEx/plugins/characters/ssxtrickypsymon/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/character.cfg",
               "sha256": "ba1469e76868c5eab414f0396991a643c67a7d5995cc499b5a3d199988719556",
               "size": 7627
             },
             "BepInEx/plugins/characters/ssxtrickypsymon/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/model.bundle",
               "sha256": "1ca2b6231958955fc566329bade7640994ef0c4c2d22a1c1548f8b0ba809e4c7",
               "size": 189171
             },
             "BepInEx/plugins/characters/ssxtrickypsymon/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickypsymon/portrait.png",
               "sha256": "db00886f172a7424806fa4703a2b53c0392a8841559ebaf6301e80eb22699ff3",
               "size": 62854
             },
             "BepInEx/plugins/characters/ssxtrickyseeiah/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/character.cfg",
               "sha256": "b5e5e94d9d894e0a42e938d14d1ccf155a7dbbfb28e9d1af11b5c18ae0686cdb",
               "size": 7627
             },
             "BepInEx/plugins/characters/ssxtrickyseeiah/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/model.bundle",
               "sha256": "0cd132664a3cffbfb5847da7511ef2899de545571b703daa7191ef1b1a491cd5",
               "size": 171887
             },
             "BepInEx/plugins/characters/ssxtrickyseeiah/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyseeiah/portrait.png",
               "sha256": "1742b0461ab14f543bb4dea3832feea07557c3b70b4d598f5af96ba4a724ffa0",
               "size": 52066
             },
             "BepInEx/plugins/characters/ssxtrickyzoe/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/character.cfg",
               "sha256": "8120400ed6249af546db135acc6e6b53d02d45a7473b26c301aeee7880fd9175",
               "size": 7603
             },
             "BepInEx/plugins/characters/ssxtrickyzoe/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/model.bundle",
               "sha256": "afa52fcb3a01c95866dcb4d90661d080fdf8aa2a5f4001a6c6a82cdd4d9f237e",
               "size": 174889
             },
             "BepInEx/plugins/characters/ssxtrickyzoe/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzoe/portrait.png",
               "sha256": "290a2855c5cdaf78740d5bdcade7e6d4419f34f047ecacb52cbd8adbddae1683",
               "size": 60134
             },
             "BepInEx/plugins/characters/ssxtrickyzz_mmm/character.cfg": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/character.cfg",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/character.cfg",
               "sha256": "902a7ab0a358a0ecbd05556f54016eb5e03eb0deb730ebc63ce09f239d6d6405",
               "size": 7643
             },
             "BepInEx/plugins/characters/ssxtrickyzz_mmm/model.bundle": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/model.bundle",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/model.bundle",
               "sha256": "b6cd8515d6dc2328f77bed13a6311f80b520b9eb4f963ffd81ec2c05b8ad851f",
               "size": 178324
             },
             "BepInEx/plugins/characters/ssxtrickyzz_mmm/portrait.png": {
-              "member": "CharacterHook v1.7.0 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/portrait.png",
+              "member": "CharacterHook v1.7.1 - Tricky Madness Mod/BepInEx/plugins/characters/ssxtrickyzz_mmm/portrait.png",
               "sha256": "50f70f18434f2e6357c44f694d87c1a7dbefe0f0aec07df59b70808034584ec7",
               "size": 53579
             }
@@ -10074,5 +10074,5 @@
       }
     }
   ],
-  "updated": "2026-10-30T20:52:31+00:00"
+  "updated": "2026-10-31T15:05:42+00:00"
 }
