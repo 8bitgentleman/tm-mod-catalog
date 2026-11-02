@@ -7,7 +7,7 @@
   "required": ["schema", "manager_min", "sources", "entries"],
   "additionalProperties": false,
   "properties": {
-    "schema": { "const": 1 },
+    "schema": { "enum": [1, 2], "description": "2 = some entry has parts (multi-part builds); managers <= 0.1.4 refuse it" },
     "manager_min": { "$ref": "#/$defs/semver" },
     "updated": { "type": "string", "format": "date-time" },
     "sources": {
@@ -49,6 +49,31 @@
         "exec": { "const": true, "description": "set the executable bit after extracting (Mac)" }
       }
     },
+    "part": {
+      "description": "one zip of a multi-part entry; version = the release it last changed in",
+      "type": "object",
+      "required": ["version", "source", "path", "file", "size", "sha256", "files"],
+      "additionalProperties": false,
+      "properties": {
+        "version": { "$ref": "#/$defs/semver" },
+        "source": { "$ref": "#/$defs/build/properties/source" },
+        "path": { "$ref": "#/$defs/build/properties/path" },
+        "file": { "$ref": "#/$defs/build/properties/file" },
+        "size": { "$ref": "#/$defs/build/properties/size" },
+        "sha256": { "$ref": "#/$defs/sha256" },
+        "files": { "$ref": "#/$defs/build/properties/files" }
+      }
+    },
+    "parted_build": {
+      "description": "a build made of the entry's parts, installed together; the manager downloads only the ones not already installed unchanged",
+      "type": "object",
+      "required": ["parts"],
+      "additionalProperties": false,
+      "properties": {
+        "parts": { "type": "array", "minItems": 1, "uniqueItems": true, "items": { "$ref": "#/$defs/id" } }
+      }
+    },
+    "any_build": { "oneOf": [ { "$ref": "#/$defs/build" }, { "$ref": "#/$defs/parted_build" } ] },
     "build": {
       "type": "object",
       "required": ["source", "path", "file", "size", "sha256", "files"],
@@ -99,14 +124,21 @@
           "description": "Steam build id the release was checked against; null = not recorded",
           "type": ["string", "null"], "pattern": "^[0-9]+$"
         },
+        "parts": {
+          "description": "schema 2: named zips that builds list by id, so a code fix ships without re-uploading the content",
+          "type": "object",
+          "minProperties": 1,
+          "propertyNames": { "$ref": "#/$defs/id" },
+          "additionalProperties": { "$ref": "#/$defs/part" }
+        },
         "builds": {
           "type": "object",
           "minProperties": 1,
           "additionalProperties": false,
           "properties": {
-            "mac": { "$ref": "#/$defs/build" },
-            "windows": { "$ref": "#/$defs/build" },
-            "any": { "$ref": "#/$defs/build" }
+            "mac": { "$ref": "#/$defs/any_build" },
+            "windows": { "$ref": "#/$defs/any_build" },
+            "any": { "$ref": "#/$defs/any_build" }
           },
           "not": { "anyOf": [ { "required": ["any", "mac"] }, { "required": ["any", "windows"] } ] }
         }

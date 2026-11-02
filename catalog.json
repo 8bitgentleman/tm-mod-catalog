@@ -3844,7 +3844,7 @@
       "kind": "framework",
       "status": "stable",
       "author": "8bitgentleman",
-      "version": "2.19.0",
+      "version": "2.19.1",
       "description": "Loads custom maps. Every map pack needs it.",
       "thumb": null,
       "video": null,
@@ -3852,23 +3852,23 @@
         "TrickyMaddnessLevelHook.cfg"
       ],
       "requires": {},
-      "tested_tm_build": "26061059",
+      "tested_tm_build": "26370662",
       "builds": {
         "any": {
           "source": "custom-maps",
           "path": "_INSTALL THIS FIRST CHECK FOR NEW VERSIONS - Tricky Madness Level Hook",
-          "file": "Tricky Madness Level Hook v2.19.0 - Tricky Madness Mod.zip",
-          "size": 115103,
-          "sha256": "478c4c2023ecb2eea9fa6e46f1892ba63c73e8e8d74c7bf6b13f654ae58ab4c6",
+          "file": "Tricky Madness Level Hook v2.19.1 - Tricky Madness Mod.zip",
+          "size": 116764,
+          "sha256": "43a0c3fb97114a6fa2fb49dcff232de40e040290d43eee9396310fabbf7b5f9d",
           "files": {
             "BepInEx/plugins/TrickyMaddnessLevelHook.dll": {
-              "member": "Tricky Madness Level Hook v2.19.0 - Tricky Madness Mod/BepInEx/plugins/TrickyMaddnessLevelHook.dll",
-              "sha256": "92ed7e40bfd76ce9de82f10df318e3177a480c2eb442710d24537dee72f0e25a",
-              "size": 246784,
+              "member": "Tricky Madness Level Hook v2.19.1 - Tricky Madness Mod/BepInEx/plugins/TrickyMaddnessLevelHook.dll",
+              "sha256": "51fa5c0700d85b2fce97fe332191ec50c15f9b1094450a5c14dd2f4dc5dbd6d6",
+              "size": 251392,
               "exec": true
             },
             "BepInEx/plugins/TrickyMaddnessLevelMaker.dll": {
-              "member": "Tricky Madness Level Hook v2.19.0 - Tricky Madness Mod/BepInEx/plugins/TrickyMaddnessLevelMaker.dll",
+              "member": "Tricky Madness Level Hook v2.19.1 - Tricky Madness Mod/BepInEx/plugins/TrickyMaddnessLevelMaker.dll",
               "sha256": "a608245c33c9183f0c68325ea9a2d8b15e916d0ef5a43c02af417c47e0eeb5d5",
               "size": 14848
             }
@@ -10104,5 +10104,5 @@
       }
     }
   ],
-  "updated": "2026-11-01T01:49:25+00:00"
+  "updated": "2026-11-02T03:23:04+00:00"
 }
