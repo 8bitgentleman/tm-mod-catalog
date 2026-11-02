@@ -9990,7 +9990,7 @@
       "kind": "plugin",
       "status": "beta",
       "author": "8bitgentleman",
-      "version": "1.6.2",
+      "version": "1.7.0",
       "description": "Auto-builds circuits that mix courses from every game you have installed, with points carried across races. Pick which games, how they're mixed, and an optional mirror mode on the in-game settings page.",
       "thumb": "thumbs/tricky-circuit.png",
       "video": null,
@@ -9998,35 +9998,35 @@
         "TrickyCircuit.cfg"
       ],
       "requires": {},
-      "tested_tm_build": "26061059",
+      "tested_tm_build": "26370662",
       "builds": {
         "any": {
           "source": "tricky-circuit",
           "path": "",
-          "file": "Tricky Circuit v1.6.2 - Tricky Madness Mod.zip",
-          "size": 3990033,
-          "sha256": "6694bab1df2350aad269c5f6cda96d4570fd0f767b183bf06bb6dc2aea39f982",
+          "file": "Tricky Circuit v1.7.0 - Tricky Madness Mod.zip",
+          "size": 2907270,
+          "sha256": "49a0019f4ed5bce5647af5d6d69f355fe87ae102d6c3b7bf922e61b7691c3392",
           "files": {
             "BepInEx/plugins/TrickyCircuit.dll": {
-              "member": "Tricky Circuit v1.6.2 - Tricky Madness Mod/plugins/TrickyCircuit.dll",
-              "sha256": "0675ba073376846962077ed868fc9b97af2df0d423e6a157ca79292e8f524d28",
-              "size": 73216,
+              "member": "Tricky Circuit v1.7.0 - Tricky Madness Mod/plugins/TrickyCircuit.dll",
+              "sha256": "b815883d4a8713237e19990ab587b5db9f23552ce8fa2bdae452b0a151299ab2",
+              "size": 74240,
               "exec": true
             },
             "BepInEx/plugins/bg_circuit_race.png": {
-              "member": "Tricky Circuit v1.6.2 - Tricky Madness Mod/plugins/bg_circuit_race.png",
-              "sha256": "83cdc3fb9cd8aebb4cbfe664630f790ffe996a6666f307580f2bf3c59cf76e11",
-              "size": 1817545
+              "member": "Tricky Circuit v1.7.0 - Tricky Madness Mod/plugins/bg_circuit_race.png",
+              "sha256": "04533c0521eaf2400935780a1ea7ab44044c51c1d8f9372019b62a7509a06527",
+              "size": 1677599
             },
             "BepInEx/plugins/bg_single_race.png": {
-              "member": "Tricky Circuit v1.6.2 - Tricky Madness Mod/plugins/bg_single_race.png",
-              "sha256": "dcf25dee4f7845db376510565febb5c28959f392b1bb59844471a79a000de853",
-              "size": 1664739
+              "member": "Tricky Circuit v1.7.0 - Tricky Madness Mod/plugins/bg_single_race.png",
+              "sha256": "ac0061037b8a75e1325cd6b3d011f2ce204d4d833adac15f78c94fe4bdb6059e",
+              "size": 1186086
             },
             "BepInEx/plugins/frame.png": {
-              "member": "Tricky Circuit v1.6.2 - Tricky Madness Mod/plugins/frame.png",
-              "sha256": "7588908393be1faf670f5e39fa036ccaaf5b88a4c2a9a5a1a21fd6ae0a68ad76",
-              "size": 495406
+              "member": "Tricky Circuit v1.7.0 - Tricky Madness Mod/plugins/frame.png",
+              "sha256": "25b3ecd3c31b088400f8a7d6d7864c548ddb76204ac44df77338431802ce235f",
+              "size": 7791
             }
           }
         }
@@ -10104,5 +10104,5 @@
       }
     }
   ],
-  "updated": "2026-11-02T03:32:18+00:00"
+  "updated": "2026-11-02T03:32:21+00:00"
 }
