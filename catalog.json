@@ -4280,7 +4280,7 @@
       "kind": "plugin",
       "status": "beta",
       "author": "8bitgentleman",
-      "version": "0.3.0",
+      "version": "0.5.1",
       "description": "Local split-screen multiplayer.",
       "thumb": "thumbs/couch-coop.png",
       "video": null,
@@ -4288,20 +4288,30 @@
         "com.mtvogel.trickymadness.couchcoop.cfg"
       ],
       "requires": {},
-      "tested_tm_build": "26061059",
+      "tested_tm_build": "26370662",
       "builds": {
         "any": {
           "source": "couch-coop",
           "path": "",
-          "file": "Couch Co-op v0.3.0 - Tricky Madness Mod.zip",
-          "size": 33936,
-          "sha256": "20dfe16d3412119b4561efecad6fa270c0dd01f86dbaef00fb66032a4d13a942",
+          "file": "Couch Co-op v0.5.1 - Tricky Madness Mod.zip",
+          "size": 1570599,
+          "sha256": "092143d87ecf73127ceb207e23458f332250678a9924db7bba9cb9596c86bb41",
           "files": {
             "BepInEx/plugins/CouchCoop.dll": {
-              "member": "Couch Co-op v0.3.0 - Tricky Madness Mod/plugins/CouchCoop.dll",
-              "sha256": "64a696cadc5a22e47e5114cd263785aeba45417b2ab5bc7a7dfc0c504ab677a4",
-              "size": 62464,
+              "member": "Couch Co-op v0.5.1 - Tricky Madness Mod/plugins/CouchCoop.dll",
+              "sha256": "3db4010a352f538989d84decd086ed5b3dbb31452b0a6844d051331e0806910b",
+              "size": 120320,
               "exec": true
+            },
+            "BepInEx/plugins/bg_coop_race.png": {
+              "member": "Couch Co-op v0.5.1 - Tricky Madness Mod/plugins/bg_coop_race.png",
+              "sha256": "e5262466d2800291b377763cc815d2ab4305d5b29bf4414b5433aeeb18132759",
+              "size": 1507687
+            },
+            "BepInEx/plugins/coop_frame.png": {
+              "member": "Couch Co-op v0.5.1 - Tricky Madness Mod/plugins/coop_frame.png",
+              "sha256": "853779a9aa079e176684e56a13441d7c70f671df827a1f892c5218887d3cc3a7",
+              "size": 37068
             }
           }
         }
@@ -10104,5 +10114,5 @@
       }
     }
   ],
-  "updated": "2026-11-02T03:32:21+00:00"
+  "updated": "2026-11-02T03:32:24+00:00"
 }
