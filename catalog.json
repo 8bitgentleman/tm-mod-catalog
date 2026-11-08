@@ -3865,6 +3865,105 @@
               "size": 346333
             }
           }
+        },
+        "windows": {
+          "source": "custom-maps",
+          "path": "Alpha Releases",
+          "file": "WildTangent Ports v1.1 (Windows).zip",
+          "size": 162086117,
+          "sha256": "9bac820a8a35d7194a50e7e6e15fe8211eb897dc38803b602734ade271d1a6d1",
+          "files": {
+            "Maps/Adrenaline Rush.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Adrenaline Rush.aipaths.txt",
+              "sha256": "14722dd65fc255393f125c8166cd27bf42ac8e73f9d03be7594ac50dbe6f67bf",
+              "size": 21445
+            },
+            "Maps/Adrenaline Rush.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Adrenaline Rush.asset",
+              "sha256": "827dce5db31b3cd9d48784837b3ad0103bba5af9573082c51a9f766992a3df43",
+              "size": 40306338
+            },
+            "Maps/Adrenaline Rush.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Adrenaline Rush.png",
+              "sha256": "c246803dd4d4b2d3eb0251b9cf65c6bf07a5ad9e038f3a74efe81b8fde79ce71",
+              "size": 263229
+            },
+            "Maps/Alpine Extreme.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Alpine Extreme.aipaths.txt",
+              "sha256": "209830d6a0b7d4b67a8ed647f28fb76665a73469b461ff2abc37c762c1eb5cc1",
+              "size": 12797
+            },
+            "Maps/Alpine Extreme.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Alpine Extreme.asset",
+              "sha256": "a97f46c1364717d6a90d45c6f89adcd02c120d1baaedff117188b1832a2ea05f",
+              "size": 7074836
+            },
+            "Maps/Alpine Extreme.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Alpine Extreme.png",
+              "sha256": "449574f4ad5b4f9249893187e579e1f1ce7cf98b796a64efc320587465705850",
+              "size": 358223
+            },
+            "Maps/Diamondback.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Diamondback.aipaths.txt",
+              "sha256": "8c296658b2d2593e219cd6f9f5ce139977a2868d35a7b5dbe4d13a28385db368",
+              "size": 257
+            },
+            "Maps/Diamondback.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Diamondback.asset",
+              "sha256": "c42567923a79ec9890ea2c9617d7d50c49d5e8b7992c947b046c1c66c3f754e5",
+              "size": 47610412
+            },
+            "Maps/Diamondback.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Diamondback.png",
+              "sha256": "88212b86e9f1201e0a8436f1a6182c0cf160601574d7f6bc293d672a21f2ae94",
+              "size": 269764
+            },
+            "Maps/Ripcord.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Ripcord.aipaths.txt",
+              "sha256": "956b81f2fd9ccc73ace7fd13b65685538489d95ded1da85b66bf690d65e80c12",
+              "size": 7377
+            },
+            "Maps/Ripcord.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Ripcord.asset",
+              "sha256": "b9fb3003970a026c991203ecacd79f0b47edf065bd94c1985916bec7b80bf08a",
+              "size": 50920447
+            },
+            "Maps/Ripcord.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Ripcord.png",
+              "sha256": "f403e3722d4f08ce642ec1c9dcc381e78e93d112af354cccb04b64859d343c27",
+              "size": 348515
+            },
+            "Maps/Snowboard Park.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Snowboard Park.aipaths.txt",
+              "sha256": "55dcbe2aa1bbc6cf1a87aa63910eb87e9f1a343c532bdfc85940ae8a6849ceb2",
+              "size": 7140
+            },
+            "Maps/Snowboard Park.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Snowboard Park.asset",
+              "sha256": "868c89a81e9dbf179dae64e28a81404fef91a5fc1d5785e96bda9ae27797d9be",
+              "size": 7183131
+            },
+            "Maps/Snowboard Park.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Snowboard Park.png",
+              "sha256": "d8bf37b75166020ce69b153b1e3b97da0a597facf50b9b91b57ab3a680610d0d",
+              "size": 365500
+            },
+            "Maps/Sugar Run.aipaths.txt": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Sugar Run.aipaths.txt",
+              "sha256": "ffcd8068906caf6edac44719549cc689369815527780748093a20cf5cd9319da",
+              "size": 8089
+            },
+            "Maps/Sugar Run.asset": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Sugar Run.asset",
+              "sha256": "a9138b586a8315d1b05d3feab1e4fdffdfa604c9b51ba30c10cc762b9ee48ca0",
+              "size": 6986991
+            },
+            "Maps/Sugar Run.png": {
+              "member": "WildTangent Ports v1.1 (Windows)/Maps/Sugar Run.png",
+              "sha256": "3b6071f1a37c9c28599a01acec8b0460c78bd70e31b34145e9a3856a5a95cb12",
+              "size": 346333
+            }
+          }
         }
       }
     },
@@ -10191,5 +10290,5 @@
       }
     }
   ],
-  "updated": "2026-11-08T14:50:37+00:00"
+  "updated": "2026-11-08T14:50:45+00:00"
 }
