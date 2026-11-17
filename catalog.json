@@ -1925,6 +1925,735 @@
               "size": 655306
             }
           }
+        },
+        "windows": {
+          "source": "custom-maps",
+          "path": "SSX 2012 Ports",
+          "file": "SSX 2012 Ports v1.4 (Windows).zip",
+          "size": 2506545008,
+          "sha256": "4322b4b66e2dc31d2795226346db54babf0e5188e5b6fd9f34477055455b7706",
+          "files": {
+            "Maps/Africa - Hush.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Hush.aipaths.txt",
+              "sha256": "94c4e7eca7ed3026cb6c2976c6a7c22122860991fa767cf979e88e1b1c138b08",
+              "size": 15603
+            },
+            "Maps/Africa - Hush.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Hush.asset",
+              "sha256": "01833d7da5560dd94ca324d26fcd9313b4a1a5891cfd24fa25058fcf75397704",
+              "size": 38453576
+            },
+            "Maps/Africa - Hush.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Hush.png",
+              "sha256": "7952cfbac3aef5f0383f6a5137c0be1e71b0867073fc9ca09d5ab22c38751224",
+              "size": 603691
+            },
+            "Maps/Africa - Incoming.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Incoming.aipaths.txt",
+              "sha256": "5eba405e465d63cdf7d02d63f72210e3e9a64dd5b6837436bc7d0a7f9e5537d9",
+              "size": 8385
+            },
+            "Maps/Africa - Incoming.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Incoming.asset",
+              "sha256": "c7442ae3c8b42aae471b1309ab845d3fa28030932c4c6339d7dab7b3e0ebdf56",
+              "size": 28539148
+            },
+            "Maps/Africa - Incoming.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Incoming.png",
+              "sha256": "7952cfbac3aef5f0383f6a5137c0be1e71b0867073fc9ca09d5ab22c38751224",
+              "size": 603691
+            },
+            "Maps/Africa - Meru.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Meru.aipaths.txt",
+              "sha256": "ecb24104eb1c8ad5f5ee1e23377ee2c488c4d63888c09cfdc03f05e5251b1b88",
+              "size": 12259
+            },
+            "Maps/Africa - Meru.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Meru.asset",
+              "sha256": "f85de4a1f60523308d0adf13d404355b8552e5c87592645bc6905779d58a5098",
+              "size": 63758671
+            },
+            "Maps/Africa - Meru.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Meru.png",
+              "sha256": "e9ae43f33272eb7f981b2168068b838ccfd53dad8554aedefb83768424d2f2b5",
+              "size": 465390
+            },
+            "Maps/Africa - Snake Bite.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Snake Bite.aipaths.txt",
+              "sha256": "ffded55e87578afed7e5b9aee0db7a93247dd2f6761a5c2998a3fd2c2fb23127",
+              "size": 13835
+            },
+            "Maps/Africa - Snake Bite.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Snake Bite.asset",
+              "sha256": "cc76dbfd26be215085d4ea1a2b7763b13fdfb2780c486b13e58482cb3120f9b3",
+              "size": 44147870
+            },
+            "Maps/Africa - Snake Bite.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Africa - Snake Bite.png",
+              "sha256": "e52297bc67796e0a7e90d89c0fcf00d58da961b8100c64ebfcad0f72fe009aa6",
+              "size": 516001
+            },
+            "Maps/Alaska - Emergency Exit.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Emergency Exit.aipaths.txt",
+              "sha256": "f4b53949aa3cd681cf06ad4e93d361c7c9c1b5bd2fc522f446279e9462357bf3",
+              "size": 7389
+            },
+            "Maps/Alaska - Emergency Exit.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Emergency Exit.asset",
+              "sha256": "b3f6489e9b7b487f7c5dca7052c10e956c5d65b3feb0c237813335954f8da8a9",
+              "size": 53669786
+            },
+            "Maps/Alaska - Emergency Exit.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Emergency Exit.png",
+              "sha256": "2c305aeb00c8aafede988a82bb47ad5302a45f0d8504ba37617a4f5b3f8e789d",
+              "size": 619015
+            },
+            "Maps/Alaska - Invincible.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Invincible.aipaths.txt",
+              "sha256": "2b98a2e887a49934edf838e59fee84f0567b2f7f36eaffe4f0322820d101905e",
+              "size": 8636
+            },
+            "Maps/Alaska - Invincible.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Invincible.asset",
+              "sha256": "534dda1b5314cbda1f02feda1e3043f3081753b45549bee0fcf80879958a656f",
+              "size": 56597226
+            },
+            "Maps/Alaska - Invincible.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Invincible.png",
+              "sha256": "c0682e527407c44a28970b3de081e5fccfff9e2a807a4e3356c2a0f4d33a6dd2",
+              "size": 783969
+            },
+            "Maps/Alaska - Lock Jaw.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Lock Jaw.aipaths.txt",
+              "sha256": "c706d37fc69f3ddf068ed6731ec4a7198dff2aae3a481dd0d261cfac7cbd6cac",
+              "size": 8560
+            },
+            "Maps/Alaska - Lock Jaw.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Lock Jaw.asset",
+              "sha256": "f2ea4e970b05464656eaf2698d406bf8ce053e219f67c2c27e4b6c1d5f4930db",
+              "size": 54477900
+            },
+            "Maps/Alaska - Lock Jaw.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Lock Jaw.png",
+              "sha256": "c0682e527407c44a28970b3de081e5fccfff9e2a807a4e3356c2a0f4d33a6dd2",
+              "size": 783969
+            },
+            "Maps/Alaska - Silverthrone.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Silverthrone.aipaths.txt",
+              "sha256": "67e0b5b0f5ed2b0531c9004cb2bc5147bbf7620f56b949371c060f73bf684479",
+              "size": 9457
+            },
+            "Maps/Alaska - Silverthrone.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Silverthrone.asset",
+              "sha256": "6812203d1ac68f8f54db6a091b509c5fe081fa5e00f3acead99997ae0e73713d",
+              "size": 74038871
+            },
+            "Maps/Alaska - Silverthrone.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - Silverthrone.png",
+              "sha256": "a0818b46058182a97787cf8541f85c9ae7ac32aa85580ff84d4643eeb66c26b6",
+              "size": 684776
+            },
+            "Maps/Alaska - The Dilemma.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - The Dilemma.aipaths.txt",
+              "sha256": "70d257e95e93f5800393222804e0a245e2f8b176f832a47b48970acb3809192b",
+              "size": 4939
+            },
+            "Maps/Alaska - The Dilemma.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - The Dilemma.asset",
+              "sha256": "a64fb5d4edf006bdedca92b211271a7fe442ec9feb88abc44eca4d890ca69327",
+              "size": 55980570
+            },
+            "Maps/Alaska - The Dilemma.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alaska - The Dilemma.png",
+              "sha256": "c0682e527407c44a28970b3de081e5fccfff9e2a807a4e3356c2a0f4d33a6dd2",
+              "size": 783969
+            },
+            "Maps/Alps - Hard Currency.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Hard Currency.aipaths.txt",
+              "sha256": "354d8e1ac8b996aded285b090c909ea41d804fbafae855c1d8c733f349e79ca4",
+              "size": 5929
+            },
+            "Maps/Alps - Hard Currency.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Hard Currency.asset",
+              "sha256": "745ae2b5b32681e318ef3229a4bb89a6f07024782b80e06af8e4197af015babf",
+              "size": 23019054
+            },
+            "Maps/Alps - Hard Currency.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Hard Currency.png",
+              "sha256": "9115004f932a85edfed33ba3efeeb033bb425e3e0a3a875ebf9c39edc84c2666",
+              "size": 673187
+            },
+            "Maps/Alps - One Step Ahead.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Step Ahead.aipaths.txt",
+              "sha256": "57399ea7726d1807ece5e1f1b9451935bb577b30623dd7618cf7aad48ca75ec5",
+              "size": 10490
+            },
+            "Maps/Alps - One Step Ahead.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Step Ahead.asset",
+              "sha256": "892eab8f54257a359d30409df0ec585f907c96e306a319f5720f15daa8798180",
+              "size": 35335362
+            },
+            "Maps/Alps - One Step Ahead.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Step Ahead.png",
+              "sha256": "9115004f932a85edfed33ba3efeeb033bb425e3e0a3a875ebf9c39edc84c2666",
+              "size": 673187
+            },
+            "Maps/Alps - One Way Ticket.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Way Ticket.aipaths.txt",
+              "sha256": "186731977150e6c4cb51c64389fd357c4dcef56d19f0612db186a92d9789d263",
+              "size": 13773
+            },
+            "Maps/Alps - One Way Ticket.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Way Ticket.asset",
+              "sha256": "ab85f946cfc193f6b23cdba6d49de66769721d7a6cc984e094d72118a6101102",
+              "size": 23942152
+            },
+            "Maps/Alps - One Way Ticket.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - One Way Ticket.png",
+              "sha256": "8707a20bcd8b39f0992693328512808504c7c9a69d93795ca12fe5c538e59c0d",
+              "size": 590992
+            },
+            "Maps/Alps - Sentinel.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Sentinel.aipaths.txt",
+              "sha256": "a3f55a92b381a08bdb852824b39743d2b0063313c3c61c9684f7833667e812df",
+              "size": 10218
+            },
+            "Maps/Alps - Sentinel.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Sentinel.asset",
+              "sha256": "5a4dd9f0591ea80f54a88f72c88c04ec124c92792552faaa004b114081db8941",
+              "size": 29105042
+            },
+            "Maps/Alps - Sentinel.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Sentinel.png",
+              "sha256": "dc8d47fb820fe2f3736ca9ebc4911e7290fa66825f89cae834b05d429095a77f",
+              "size": 985785
+            },
+            "Maps/Alps - Vorassay.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Vorassay.aipaths.txt",
+              "sha256": "dc041d92c21525940a2f4f75704f4cd73e7660743d0ae4ace391549a7336e1c2",
+              "size": 7097
+            },
+            "Maps/Alps - Vorassay.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Vorassay.asset",
+              "sha256": "0c1d78a07e2f7856e2e1f3a727bbbad20ca97296857aa11c1b257ac1a4ad63db",
+              "size": 55368220
+            },
+            "Maps/Alps - Vorassay.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Alps - Vorassay.png",
+              "sha256": "fa98e9489fc800f0db83620b24e5174ecc7a41eddb18422344228ea2887a9eba",
+              "size": 1022037
+            },
+            "Maps/Antarctica - Dreadnought.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Dreadnought.aipaths.txt",
+              "sha256": "ca6539a3c14d049d407a6b9d3146259f02f03dc760feb91df32dd060166a4390",
+              "size": 7190
+            },
+            "Maps/Antarctica - Dreadnought.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Dreadnought.asset",
+              "sha256": "9ee4de9a00dbc0a8cf2170ecba8061a824af0d2f826be20dec36bc9fe981a857",
+              "size": 56619727
+            },
+            "Maps/Antarctica - Dreadnought.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Dreadnought.png",
+              "sha256": "c6d8a097945434adc9034def62404084379ec426d1fd5379b027e6259fd88e06",
+              "size": 695332
+            },
+            "Maps/Antarctica - Headshot.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Headshot.aipaths.txt",
+              "sha256": "12665f2b386576a4f695788a939ab0751e945871614405504c7272f24f13cc36",
+              "size": 6755
+            },
+            "Maps/Antarctica - Headshot.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Headshot.asset",
+              "sha256": "8e43ac94181a2b7f93e7cbcc5de5c43418a6abd453a6078d1b7d8a12c9b9b3e3",
+              "size": 53544595
+            },
+            "Maps/Antarctica - Headshot.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Headshot.png",
+              "sha256": "31d8c97e838236520fdceab9316929178d7e83532fdf073eea4dec563329f0ed",
+              "size": 607535
+            },
+            "Maps/Antarctica - Long Horn.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Long Horn.aipaths.txt",
+              "sha256": "d7d2764b07bc55eaff0a576152fa49ef1e3824de2f3f9e7e71543364f314a5b8",
+              "size": 11151
+            },
+            "Maps/Antarctica - Long Horn.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Long Horn.asset",
+              "sha256": "a6af79e3cc576ab6651dbc056c5389d2821a44a703bcb135233c15592f487719",
+              "size": 55039123
+            },
+            "Maps/Antarctica - Long Horn.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Long Horn.png",
+              "sha256": "31d8c97e838236520fdceab9316929178d7e83532fdf073eea4dec563329f0ed",
+              "size": 607535
+            },
+            "Maps/Antarctica - Root Down.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Root Down.aipaths.txt",
+              "sha256": "e9fd743b61195b686d05c2193238b7a63670c81889ea47b22c7b666f9bac1b1b",
+              "size": 5504
+            },
+            "Maps/Antarctica - Root Down.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Root Down.asset",
+              "sha256": "e8a3522b3222e050e82deab71dcb70badad7fd939049fb09373a18388d34bfe0",
+              "size": 31217835
+            },
+            "Maps/Antarctica - Root Down.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Root Down.png",
+              "sha256": "31d8c97e838236520fdceab9316929178d7e83532fdf073eea4dec563329f0ed",
+              "size": 607535
+            },
+            "Maps/Antarctica - Vinson Massif.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Vinson Massif.aipaths.txt",
+              "sha256": "1d1bfba85b4fdb66396bab7048cb320848278feb0506192e54d435df295a42c5",
+              "size": 9045
+            },
+            "Maps/Antarctica - Vinson Massif.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Vinson Massif.asset",
+              "sha256": "789898c988613d24763a700a279fb6ef08042c3a1de9be45ebcd886175a86617",
+              "size": 84651248
+            },
+            "Maps/Antarctica - Vinson Massif.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Antarctica - Vinson Massif.png",
+              "sha256": "1f6aa9f391ea85fc2ed51923acd4d45b054e8a11cbade167d673afab43dd13e7",
+              "size": 762241
+            },
+            "Maps/Himalayas - Bear Claw.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Bear Claw.aipaths.txt",
+              "sha256": "f337f08f52af42295592934cc27e47935825e2fd1004ad1b7b18e6ced47ca3c4",
+              "size": 6238
+            },
+            "Maps/Himalayas - Bear Claw.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Bear Claw.asset",
+              "sha256": "2f1a8d61d6f5d66eeef4e99ee7984ba30a0e6f8a0946859bde9e44e1c65b260b",
+              "size": 41186248
+            },
+            "Maps/Himalayas - Bear Claw.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Bear Claw.png",
+              "sha256": "bee710a86699c1f158b38aff76b23a4846e27d8c1645afc98e2644e2e596cfa7",
+              "size": 696479
+            },
+            "Maps/Himalayas - Burnout.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Burnout.aipaths.txt",
+              "sha256": "6baa917acffc3d9f482c6cb36f9f5308da4078a144a4f24f2936ddb6297c5885",
+              "size": 5745
+            },
+            "Maps/Himalayas - Burnout.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Burnout.asset",
+              "sha256": "0c767e01c78bf706cc1d9ff2aa6759f4e96a64ae888d2fe83d4fa9ede99b96fd",
+              "size": 61890023
+            },
+            "Maps/Himalayas - Burnout.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Burnout.png",
+              "sha256": "7b9c7f0446f7c6b5e5329ac3e90320aead0f45121e6299aab08c16c8efc8826b",
+              "size": 525807
+            },
+            "Maps/Himalayas - Death Zone.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Death Zone.aipaths.txt",
+              "sha256": "9dd0aba1e3c6cd75913357ec5b5f2c3e193e1d0ddbfb9495b8864f689be7567d",
+              "size": 11705
+            },
+            "Maps/Himalayas - Death Zone.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Death Zone.asset",
+              "sha256": "0ef5215f74cae3e310253683e101c71ab5807c181b5caf5841c1b4b2607ef4d0",
+              "size": 45405871
+            },
+            "Maps/Himalayas - Death Zone.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Death Zone.png",
+              "sha256": "4181b792318f2297cd745eb0a2a1929939e38d6e9f95e6566bd122eff1ad0795",
+              "size": 658794
+            },
+            "Maps/Himalayas - Fall from Grace.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Fall from Grace.aipaths.txt",
+              "sha256": "bb83da33a56be375b9fe79c02691707c73199ab21eacf96c0381f3fe54df5dae",
+              "size": 5541
+            },
+            "Maps/Himalayas - Fall from Grace.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Fall from Grace.asset",
+              "sha256": "76077dd6fcc46be18bc70b65703d5557ff4b41981893ab60105bbe13cbbcc111",
+              "size": 38075588
+            },
+            "Maps/Himalayas - Fall from Grace.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Fall from Grace.png",
+              "sha256": "bee710a86699c1f158b38aff76b23a4846e27d8c1645afc98e2644e2e596cfa7",
+              "size": 696479
+            },
+            "Maps/Himalayas - Makalu.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Makalu.aipaths.txt",
+              "sha256": "0b32203760644bc49d635ff76b28dd554d4871f513639b6ba4f6eb9764a5b9fa",
+              "size": 15009
+            },
+            "Maps/Himalayas - Makalu.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Makalu.asset",
+              "sha256": "1d903314804320fc99213973b05f1a9832858cbd876a5c1d8f17f9614509cff2",
+              "size": 80523341
+            },
+            "Maps/Himalayas - Makalu.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - Makalu.png",
+              "sha256": "d2f94d045f1c0675aea27ca8821758379d1eb12d1798583dae4c4c095fc705a7",
+              "size": 853754
+            },
+            "Maps/Himalayas - The Monster.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - The Monster.aipaths.txt",
+              "sha256": "940058d19058b06ff3586e19d9b9c9cbeb30d3e44fdffa6cfb61ce4533b13b94",
+              "size": 6311
+            },
+            "Maps/Himalayas - The Monster.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - The Monster.asset",
+              "sha256": "74941913c387fb4a0fb0091cc01ebfecd1974e2636db5eb9f79a2a6af34ddf19",
+              "size": 46405441
+            },
+            "Maps/Himalayas - The Monster.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Himalayas - The Monster.png",
+              "sha256": "bee710a86699c1f158b38aff76b23a4846e27d8c1645afc98e2644e2e596cfa7",
+              "size": 696479
+            },
+            "Maps/Japan - Mount Fuji.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Japan - Mount Fuji.aipaths.txt",
+              "sha256": "1586d6d1ab626f27fbb226bcb2cc2ae8ef9c0d8c92363e23685a0c2e1b8718fe",
+              "size": 12619
+            },
+            "Maps/Japan - Mount Fuji.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Japan - Mount Fuji.asset",
+              "sha256": "a084a20e441c91004b9ff236e72fe2fd4251480084b6589523e6b20df0b341b7",
+              "size": 62318107
+            },
+            "Maps/Japan - Mount Fuji.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Japan - Mount Fuji.png",
+              "sha256": "96133f6e3ca2cdf83cb791bc19aeb408238b4656dd8ac6b343ae059267ca58c0",
+              "size": 1134073
+            },
+            "Maps/New Zealand - Buckeye.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Buckeye.aipaths.txt",
+              "sha256": "1b8f17a9f657e17a6cb56a1f2e57f5a6cf0d78597d10d99b967b4220bcec1e6c",
+              "size": 8109
+            },
+            "Maps/New Zealand - Buckeye.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Buckeye.asset",
+              "sha256": "20e406adefdbbde053d0438710ec856978b4ad635e529b626222b0393ce3ea2e",
+              "size": 59880351
+            },
+            "Maps/New Zealand - Buckeye.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Buckeye.png",
+              "sha256": "1d45aff803b3e1977b39fc6942415ac8bbb43b379fb38997078d4f40d6a0ead6",
+              "size": 543328
+            },
+            "Maps/New Zealand - Jack-Knife.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Jack-Knife.aipaths.txt",
+              "sha256": "3ea68570d0e0c575876305e0502eba7c467dbd601523dd11589d7e796c600d8d",
+              "size": 7117
+            },
+            "Maps/New Zealand - Jack-Knife.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Jack-Knife.asset",
+              "sha256": "231a766d374f91215394a4ac35ea7590707d43981e6d993ea887aab327b073dd",
+              "size": 57410452
+            },
+            "Maps/New Zealand - Jack-Knife.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Jack-Knife.png",
+              "sha256": "1d45aff803b3e1977b39fc6942415ac8bbb43b379fb38997078d4f40d6a0ead6",
+              "size": 543328
+            },
+            "Maps/New Zealand - Mount Wakefield.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Mount Wakefield.aipaths.txt",
+              "sha256": "77b09d4e3366ebf71bbb2d8bd1a5f11d041720718ce6744d0e9cf2024241ce4a",
+              "size": 10384
+            },
+            "Maps/New Zealand - Mount Wakefield.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Mount Wakefield.asset",
+              "sha256": "62f7a3acd58ef2514d4c560d432384de22f67b439a282b54bd32d41562eee777",
+              "size": 63219594
+            },
+            "Maps/New Zealand - Mount Wakefield.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Mount Wakefield.png",
+              "sha256": "756053d6fb5502f1a6bc3ffe945200e500646dcc5955f61164afd3d8705f97ae",
+              "size": 706238
+            },
+            "Maps/New Zealand - Route Zero.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Route Zero.aipaths.txt",
+              "sha256": "d13786469efa0b36491ab26a9c500a275acbf182d314b2f9d2fb4f081f9332dc",
+              "size": 7940
+            },
+            "Maps/New Zealand - Route Zero.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Route Zero.asset",
+              "sha256": "98802803d1fde36e5c849fe6af6db6da55cf0d158ee68f05944aae38ac1bd522",
+              "size": 49949136
+            },
+            "Maps/New Zealand - Route Zero.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Route Zero.png",
+              "sha256": "b8f11ffb7c81b2dbff503c679fdf4770720a9a974ba413ebb7c7f685373a87cd",
+              "size": 598884
+            },
+            "Maps/New Zealand - Thunderbird.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Thunderbird.aipaths.txt",
+              "sha256": "6216afddbbcd9391bc4c914984d2e1a1736a09b2e937dfd38b6a2a1bc686d317",
+              "size": 11685
+            },
+            "Maps/New Zealand - Thunderbird.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Thunderbird.asset",
+              "sha256": "eda19ac00c41ea372b7ffbe24c58578332ad9ed1a899d0fecea9da562859c0b9",
+              "size": 33931194
+            },
+            "Maps/New Zealand - Thunderbird.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/New Zealand - Thunderbird.png",
+              "sha256": "1d45aff803b3e1977b39fc6942415ac8bbb43b379fb38997078d4f40d6a0ead6",
+              "size": 543328
+            },
+            "Maps/Patagonia - Blackbox.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Blackbox.aipaths.txt",
+              "sha256": "5d5141d195213ea80059734a1157e6e59d665df748a26d074c8ede89779bfd3e",
+              "size": 8196
+            },
+            "Maps/Patagonia - Blackbox.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Blackbox.asset",
+              "sha256": "2dd22ee6c6f3660a7b0ac39b58fbb788decd7b0508658dc9e70080835521ed7b",
+              "size": 58160977
+            },
+            "Maps/Patagonia - Blackbox.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Blackbox.png",
+              "sha256": "30fbcf0ff183ce400c1851bde978c93d873ee33505caf50096be714101e89b57",
+              "size": 812622
+            },
+            "Maps/Patagonia - Broken Elbow.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Broken Elbow.aipaths.txt",
+              "sha256": "53e61279ef89cccc644eee0b182a54c603ba8a9a4cddf116e2d80f3439837b02",
+              "size": 6983
+            },
+            "Maps/Patagonia - Broken Elbow.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Broken Elbow.asset",
+              "sha256": "1933d8ef8eb8e2fc6089787f892cb90452b8ecd3c26731fdbf8ad0c0baf66340",
+              "size": 53576142
+            },
+            "Maps/Patagonia - Broken Elbow.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Broken Elbow.png",
+              "sha256": "4e716fd4d3dd7becb088fea39b3fccd6698cbdfd48aaf26e7db6b6ea28f8b22f",
+              "size": 600656
+            },
+            "Maps/Patagonia - Cerro Pollone.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Cerro Pollone.aipaths.txt",
+              "sha256": "62bffd0a6cd13da28b8408ba37148226d86224daa6be82dba4468b7c0885df8f",
+              "size": 11093
+            },
+            "Maps/Patagonia - Cerro Pollone.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Cerro Pollone.asset",
+              "sha256": "c384837a5717695942283503bd8eaad1a62f879871624478221b73cfbb5dbf8b",
+              "size": 61583950
+            },
+            "Maps/Patagonia - Cerro Pollone.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Cerro Pollone.png",
+              "sha256": "0056618e25b30f2f6612f14f4dc31d736bbb458f08a171e7cae50803173f1141",
+              "size": 643877
+            },
+            "Maps/Patagonia - Code Blue.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Code Blue.aipaths.txt",
+              "sha256": "01a85804d2ae9bbaec9395fa52291b26e029e94e29efb5a746532adc8d2a0a35",
+              "size": 6438
+            },
+            "Maps/Patagonia - Code Blue.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Code Blue.asset",
+              "sha256": "8c0871a751becac6b68d4edb9ebb8bda537c7d4799929d13c5c0c3d0b2a128ac",
+              "size": 56216785
+            },
+            "Maps/Patagonia - Code Blue.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Code Blue.png",
+              "sha256": "eed6a2e32657ea13b750aa43f72d3e15986957bd4e0cc2a5a1ae64fb732404b6",
+              "size": 688576
+            },
+            "Maps/Patagonia - Last Call.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Last Call.aipaths.txt",
+              "sha256": "2af190c3259a2ef55cde5ed6afe18c2b075edbb8680f6f8a2172fc821d5c62ec",
+              "size": 10403
+            },
+            "Maps/Patagonia - Last Call.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Last Call.asset",
+              "sha256": "51ed60f40a7d34c83f33744509d9dc836ca61a29d19c2e1f4ba400c8073f6636",
+              "size": 59767367
+            },
+            "Maps/Patagonia - Last Call.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Last Call.png",
+              "sha256": "eed6a2e32657ea13b750aa43f72d3e15986957bd4e0cc2a5a1ae64fb732404b6",
+              "size": 688576
+            },
+            "Maps/Patagonia - Salient.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Salient.aipaths.txt",
+              "sha256": "27ed85e35967e87d913d741d44d93ffe9289c035b6e289d7089152b0d58c38ad",
+              "size": 8235
+            },
+            "Maps/Patagonia - Salient.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Salient.asset",
+              "sha256": "e8c4ddebaa100d46d10d64899bbf27cf0d37055d5187fa56873b23c698574d48",
+              "size": 47710973
+            },
+            "Maps/Patagonia - Salient.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Salient.png",
+              "sha256": "0056618e25b30f2f6612f14f4dc31d736bbb458f08a171e7cae50803173f1141",
+              "size": 643877
+            },
+            "Maps/Patagonia - Vengeance.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Vengeance.aipaths.txt",
+              "sha256": "235c40993899207f925869db57829d41b1b22d538229d39c4b0f68f8ed507877",
+              "size": 6600
+            },
+            "Maps/Patagonia - Vengeance.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Vengeance.asset",
+              "sha256": "22fb2adf9718dc770572b5468e28e56cced27780fdad27df6b234acf7c3a061c",
+              "size": 55206629
+            },
+            "Maps/Patagonia - Vengeance.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Patagonia - Vengeance.png",
+              "sha256": "eed6a2e32657ea13b750aa43f72d3e15986957bd4e0cc2a5a1ae64fb732404b6",
+              "size": 688576
+            },
+            "Maps/Rockies - Curnoe's Moustache.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Curnoe's Moustache.aipaths.txt",
+              "sha256": "11881e5ace76a366d976674ee91e748b475c491521946119fb6641b182e1b860",
+              "size": 7474
+            },
+            "Maps/Rockies - Curnoe's Moustache.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Curnoe's Moustache.asset",
+              "sha256": "2a4bd1eba7906f99a80cf956c60e7b358389141b2729a70c38512737be3bd7c4",
+              "size": 41228771
+            },
+            "Maps/Rockies - Curnoe's Moustache.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Curnoe's Moustache.png",
+              "sha256": "6a356f0632605ff1f023a1d442416f97be1beb1a2d5aa4c051626047e859b582",
+              "size": 614896
+            },
+            "Maps/Rockies - Extinguisher Tower.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Extinguisher Tower.aipaths.txt",
+              "sha256": "f8ecd9751707f33df5cc36665f50a6af3a06621d8d3d823999a5b26627afe596",
+              "size": 9180
+            },
+            "Maps/Rockies - Extinguisher Tower.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Extinguisher Tower.asset",
+              "sha256": "54aa45b8b988bf79e16f29811b38dd2fe381bcb3ff0be0b8a5e684c8ff4ec699",
+              "size": 70966773
+            },
+            "Maps/Rockies - Extinguisher Tower.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Extinguisher Tower.png",
+              "sha256": "61a83abaed8762a06cf6dc9d17a669b018c52d825ee31bad9c45034d7f3c053f",
+              "size": 607101
+            },
+            "Maps/Rockies - Intrepid.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Intrepid.aipaths.txt",
+              "sha256": "229fb0e188b7d7611cee08800926c9f90f363eeb683ffa1e2d7a4b712d6fc6af",
+              "size": 6890
+            },
+            "Maps/Rockies - Intrepid.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Intrepid.asset",
+              "sha256": "5ed61fc571c7da145d973a89a317c7a4c3bf5a6ac2e50ad246ce74a84c298d35",
+              "size": 38235246
+            },
+            "Maps/Rockies - Intrepid.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Intrepid.png",
+              "sha256": "f25d3098a223b874f80fcaf3cedc2b1a95a949828ce89bc94590a9a1c847489b",
+              "size": 682534
+            },
+            "Maps/Rockies - Mt. Eddie.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Mt. Eddie.aipaths.txt",
+              "sha256": "c9ff9c1a509ebb2af2a4cdce6de9d28f90a79688d80d794ea77c6d13f3200af0",
+              "size": 22247
+            },
+            "Maps/Rockies - Mt. Eddie.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Mt. Eddie.asset",
+              "sha256": "d605555df84f0cb4b72cf743c8e9ce1aab1bbb932f767afd688e803cd23e9bc8",
+              "size": 90431135
+            },
+            "Maps/Rockies - Mt. Eddie.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Mt. Eddie.png",
+              "sha256": "e59ad25c718525ee99b1efb654534a3fbabe3460f0acdd4d29a1ef5bc8ad4ac2",
+              "size": 1099985
+            },
+            "Maps/Rockies - Whitehorn Mountain.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Whitehorn Mountain.aipaths.txt",
+              "sha256": "63950a836f853ade656c98b04777042b95adcd9f878aace5024a89312824605b",
+              "size": 8730
+            },
+            "Maps/Rockies - Whitehorn Mountain.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Whitehorn Mountain.asset",
+              "sha256": "e46712c1c44fc7c64174f3ff7caf9e31c3239d690103456fba102057fa89cb34",
+              "size": 49246410
+            },
+            "Maps/Rockies - Whitehorn Mountain.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Whitehorn Mountain.png",
+              "sha256": "6a356f0632605ff1f023a1d442416f97be1beb1a2d5aa4c051626047e859b582",
+              "size": 614896
+            },
+            "Maps/Rockies - Wrecking Crew.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Wrecking Crew.aipaths.txt",
+              "sha256": "da8490d6f413770172f96e7c35ecfaee2c5725e40e47e163a968a070e10f3dc8",
+              "size": 6511
+            },
+            "Maps/Rockies - Wrecking Crew.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Wrecking Crew.asset",
+              "sha256": "8f2a57c697374b50276a54d198d4b7b351dab7e6a5b0404bd4dc1c5f63e47abb",
+              "size": 36679227
+            },
+            "Maps/Rockies - Wrecking Crew.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Rockies - Wrecking Crew.png",
+              "sha256": "61a83abaed8762a06cf6dc9d17a669b018c52d825ee31bad9c45034d7f3c053f",
+              "size": 607101
+            },
+            "Maps/Siberia - Boris.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Boris.aipaths.txt",
+              "sha256": "b8c67893c76cad42b895d001992c9b65449b56373fbe8a4fe221c124ac1a5fa9",
+              "size": 8678
+            },
+            "Maps/Siberia - Boris.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Boris.asset",
+              "sha256": "0f5e238123c1709c3155c0471aca5dc249f7c6e62678859b0324106ac6ab2f7b",
+              "size": 79380744
+            },
+            "Maps/Siberia - Boris.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Boris.png",
+              "sha256": "7bcec6416a9c396f378912ddf6985e9769a984d5b3c3f238156c9fa123562ed5",
+              "size": 567132
+            },
+            "Maps/Siberia - Critical Mass.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Critical Mass.aipaths.txt",
+              "sha256": "d4abe4c3b633f0b77e2c711c7c63788fa5a8ca7dff38e0656e43dcc3f636d3cb",
+              "size": 6574
+            },
+            "Maps/Siberia - Critical Mass.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Critical Mass.asset",
+              "sha256": "ec9b6d62ec84870ef535e27979f617dd96952754312a49db4fd5cd0b90cdbc8c",
+              "size": 34921162
+            },
+            "Maps/Siberia - Critical Mass.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Critical Mass.png",
+              "sha256": "e0a39d9af9a1cb4cfe4d66199e8ee66f50faf18118b7046c51c43cfc23f62eec",
+              "size": 630104
+            },
+            "Maps/Siberia - Don't Make Me.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Don't Make Me.aipaths.txt",
+              "sha256": "a253b7b82d7e742f39f1bedf5e987b1a71dee58459e4704b5bcb19b15b591508",
+              "size": 9080
+            },
+            "Maps/Siberia - Don't Make Me.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Don't Make Me.asset",
+              "sha256": "2f2fcd97ed9a055c8fdf67576d41464b3bf3a286528f9552048208369235c549",
+              "size": 33574496
+            },
+            "Maps/Siberia - Don't Make Me.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Don't Make Me.png",
+              "sha256": "e0a39d9af9a1cb4cfe4d66199e8ee66f50faf18118b7046c51c43cfc23f62eec",
+              "size": 630104
+            },
+            "Maps/Siberia - Punch Up.aipaths.txt": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Punch Up.aipaths.txt",
+              "sha256": "7f3714c1d92ce25fc9b52b210bccdc963fe736d7ef97026c36a4a4171dd34066",
+              "size": 11830
+            },
+            "Maps/Siberia - Punch Up.asset": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Punch Up.asset",
+              "sha256": "894d81b184caa20764d1948f593cf481700dc33d091d8d3d08d9f89d2c081dfc",
+              "size": 48604977
+            },
+            "Maps/Siberia - Punch Up.png": {
+              "member": "SSX 2012 Ports v1.4 (Windows)/Maps/Siberia - Punch Up.png",
+              "sha256": "659089bd86925de584a366e0997d0b0e5ca22665d09561314c6d74af4b8cc2db",
+              "size": 655306
+            }
+          }
         }
       }
     },
@@ -9561,5 +10290,5 @@
       }
     }
   ],
-  "updated": "2026-11-17T04:22:58+00:00"
+  "updated": "2026-11-17T04:24:37+00:00"
 }
